@@ -1,6 +1,10 @@
 <h1 align="center">  Hi there! this is manoj_vvr...😉 </h1>
 <h3 align="center"> ML and Data Enthusiast </h3>
+<p> About me: </p>
+I currently a 3rd year undergraduate pursuing Data Science Engineering at Manipal Institute of Technology, Manipal. 
+Currently enhancing my skills in the domain of Data Science & Machine Learning and an avid learner! Always open to discussion related to tech and to collaboratively work on multiple projects.
 
+Exploring oppurtunities to learn and pursue development and research in AI related technologies.
 
 <!--
 **manoj24vvr/manoj24vvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
