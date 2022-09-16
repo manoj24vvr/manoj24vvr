@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there! this is manoj_vvr...😉 </h1>
 <h3 align="center"> ML and Data Enthusiast </h2>
-#I currently a 3rd year undergraduate pursuing Data Science Engineering at Manipal Institute of Technology <img src="https://user-images.githubusercontent.com/75264791/190741412-426f779d-742f-4561-9067-cd12e771d27b.png" alt="">
+#I currently a 3rd year undergraduate pursuing B.tech in Data Science Engineering at Manipal Institute of Technology![image](https://user-images.githubusercontent.com/75264791/190748029-9ca191d8-2761-4fff-984e-7381f5572ce2.png)
 , Manipal. 
 Currently enhancing my skills in the domain of Data Science & Machine Learning and an avid learner! Always open to discussion related to tech and to collaboratively work on multiple projects.
 
