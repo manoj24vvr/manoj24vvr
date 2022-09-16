@@ -2,7 +2,7 @@
 <h3 align="center"> ML and Data Enthusiast </h2>
 I currently a 3rd year undergraduate pursuing Data Science Engineering📜 at Manipal Institute of Technology🏫, Manipal. Currently enhancing my skills in the domain of Data Science & Machine Learning💻 and an avid learner🧑‍💻! Always open to discussion related to tech and to collaboratively work🤝 on multiple projects. Exploring oppurtunities to learn and pursue development and research in AI related technologies.
 <hr>
-<h4> Connect with me!<img src="https://user-images.githubusercontent.com/75264791/190798360-60884611-7c89-4e81-98fc-1324fddc612e.png" alt="" width="20" height="20"/>
+<h4> Connect with me!<img src="https://user-images.githubusercontent.com/75264791/190798985-0288e55c-aaec-4d0c-b101-b32fbe51ebf1.png" alt="" width="18" height="18"/>
 : </h4>
 <p><a href="https://www.linkedin.com/in/atyamvvrmanoj/" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190789999-a18481d7-8e6a-4685-b5c3-21f57c74eb9a.png" alt="" width="40" height="40"/</a><a href="https://github.com/manoj24vvr" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190791147-61880226-820a-48f9-a418-2a7b696334c9.png" alt="" width="40" height="40"/</a><a href="vvrmanojatyam@gmail.com" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190792267-3fac456a-2122-45f0-ba1b-e7df27d50e77.png" alt="" width="40" height="40"/</a> 
 </p>
