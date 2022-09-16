@@ -8,8 +8,7 @@ I currently a 3rd year undergraduate pursuing Data Science Engineering📜 at Ma
 </p>
 
 <h4> Tools & Technologies used: </h4>
-  <p><img src="![image](https://user-images.githubusercontent.com/75264791/190801620-b44264a6-55d8-4f92-9f7b-9ce2bb346fbf.png)
-" alt="" width="40" height="40"></p>
+  <p><img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png" alt="" width="40" height="40"></p>
 
 <!--
 **manoj24vvr/manoj24vvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
