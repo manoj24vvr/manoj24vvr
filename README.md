@@ -7,7 +7,7 @@ I currently a 3rd year undergraduate pursuing Data Science Engineering📜 at Ma
 <p><a href="https://www.linkedin.com/in/atyamvvrmanoj/" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190789999-a18481d7-8e6a-4685-b5c3-21f57c74eb9a.png" alt="" width="40" height="40"/</a> <a href="https://github.com/manoj24vvr" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190791147-61880226-820a-48f9-a418-2a7b696334c9.png" alt="" width="40" height="40"/</a> <a href="vvrmanojatyam@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" width="40" height="40"/</a> 
 </p>
 
-<h4> Tools & Technologies used: </h4>
+<h4> Tools & Technologies used <img src="https://cdn-icons-png.flaticon.com/128/1087/1087815.png" width=20px height=20px>: </h4>
   <p><img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png" alt="" width="40" height="40"  />
     <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="" width="40" height="40">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_python_icon_130221.png" alt="" width="40" height="40">
