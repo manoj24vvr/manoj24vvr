@@ -1,5 +1,5 @@
-# <align="center">  Hi there! this is manoj_vvr...😉
-ML and Data Enthusiast
+<h1 align="center">  Hi there! this is manoj_vvr...😉 </h1>
+<h3 align="center"> ML and Data Enthusiast </h2>
 #I currently a 3rd year undergraduate pursuing Data Science Engineering at Manipal Institute of Technology, Manipal. 
 Currently enhancing my skills in the domain of Data Science & Machine Learning and an avid learner! Always open to discussion related to tech and to collaboratively work on multiple projects.
 
