@@ -4,7 +4,7 @@ I currently a 3rd year undergraduate pursuing Data Science Engineering📜 at Ma
 <hr>
 <h4> Connect with me! <img src="https://user-images.githubusercontent.com/75264791/190798985-0288e55c-aaec-4d0c-b101-b32fbe51ebf1.png" alt="" width="18" height="18"/>
 : </h4>
-<p><a href="https://www.linkedin.com/in/atyamvvrmanoj/" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190789999-a18481d7-8e6a-4685-b5c3-21f57c74eb9a.png" alt="" width="40" height="40"/</a>  <a href="https://github.com/manoj24vvr" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190791147-61880226-820a-48f9-a418-2a7b696334c9.png" alt="" width="40" height="40"/</a>  <a href="vvrmanojatyam@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" width="40" height="40"/</a> 
+<p><a href="https://www.linkedin.com/in/atyamvvrmanoj/" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190789999-a18481d7-8e6a-4685-b5c3-21f57c74eb9a.png" alt="" width="40" height="40"/</a>   <a href="https://github.com/manoj24vvr" target="_blank"> <img src="https://user-images.githubusercontent.com/75264791/190791147-61880226-820a-48f9-a418-2a7b696334c9.png" alt="" width="40" height="40"/</a>      <a href="vvrmanojatyam@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" width="40" height="40"/</a> 
 </p>
 
 <h4> Tools & Technologies used: </h4>
