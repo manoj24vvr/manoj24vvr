@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/128/901/901049.png" width=1000px height=300px>
+<img src="https://cdn-icons-png.flaticon.com/128/901/901049.png" >
 
 <h1 align="center">  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! this is manoj_vvr...<img src="https://cdn-icons-png.flaticon.com/128/1791/1791347.png" width=20px height=20px> </h1>
 <h3 align="center"> ML and Data Enthusiast </h2>
