@@ -1,4 +1,7 @@
-<h1 align="center">  Hi there! this is manoj_vvr 👋 </h1>
+<h1 align="center">  Hi there! this is manoj_vvr... </h1>
+<hr>
+### ML and Data Enthusiast
+
 
 <!--
 **manoj24vvr/manoj24vvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
