@@ -1,4 +1,4 @@
-<pre><img src="https://cdn-icons-png.flaticon.com/128/901/901049.png" >                                         <img src="https://cdn-icons-png.flaticon.com/128/1055/1055621.png" >                                      <img src="https://cdn-icons-png.flaticon.com/128/3662/3662817.png" > </pre>
+<pre><img src="https://cdn-icons-png.flaticon.com/128/901/901049.png" >                                       <img src="https://cdn-icons-png.flaticon.com/128/1055/1055621.png" >                                    <img src="https://cdn-icons-png.flaticon.com/128/3662/3662817.png" > </pre>
 <h1 align="center">  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! this is manoj_vvr...<img src="https://cdn-icons-png.flaticon.com/128/1791/1791347.png" width=20px height=20px> </h1>
 <h3 align="center"> ML and Data Enthusiast </h2>
 👀I currently a 3rd year undergraduate pursuing Data Science Engineering📜 at Manipal Institute of Technology🏫, Manipal. Currently enhancing my skills in the domain of Data Science & Machine Learning💻 and an avid learner🧑‍💻! 
