@@ -3,6 +3,7 @@
 <h3 align="center"> ML and Data Enthusiast </h2>
 👀I currently a 3rd year undergraduate pursuing Data Science Engineering📜 at Manipal Institute of Technology🏫, Manipal. Currently enhancing my skills in the domain of Data Science & Machine Learning💻 and an avid learner🧑‍💻! 
 
+
    Always open to discussion related to tech and to collaboratively work🤝 on multiple projects. Exploring oppurtunities to learn and pursue development and research in AI related technologies.
 <hr>
 <h4> Connect with me! <img src="https://user-images.githubusercontent.com/75264791/190798985-0288e55c-aaec-4d0c-b101-b32fbe51ebf1.png" alt="" width="18" height="18"/>
