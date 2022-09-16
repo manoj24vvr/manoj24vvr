@@ -2,7 +2,9 @@
 <h3 align="center"> ML and Data Enthusiast </h2>
 I currently a 3rd year undergraduate pursuing Data Science Engineering📜 at Manipal Institute of Technology🏫, Manipal. Currently enhancing my skills in the domain of Data Science & Machine Learning💻 and an avid learner🧑‍💻! Always open to discussion related to tech and to collaboratively work🤝 on multiple projects. Exploring oppurtunities to learn and pursue development and research in AI related technologies.
 <hr>
-Social Media Profiles:
+### Social Media Profiles:
+<p> <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
 
 <!--
 **manoj24vvr/manoj24vvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
